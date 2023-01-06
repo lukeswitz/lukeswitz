@@ -1,4 +1,8 @@
-### Hi there 👋
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109449136330943994?color=8fff00&domain=https%3A%2F%2Finfosec.exchange&label=%40lukeswitzer&labelColor=black&logo=mastodon&logoColor=8fff00&style=for-the-badge) 
+[![Matrix](https://img.shields.io/badge/@lukeswitz:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=8fff00&labelColor=black&color=black)](https://matrix.to/#/@lukeswitz:matrix.org) 
+![iTunes App Store](https://img.shields.io/itunes/v/1006503796?color=8fff00&label=GeoTrend&logo=apple&logoColor=8fff00&style=for-the-badge&labelColor=black) 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lukeswitz&count_private=true&theme=ocean_dark&showicons=false&hide_title=true&hide_rank=true)]()
 
 <!--
 **lukeswitz/lukeswitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
