@@ -1,4 +1,4 @@
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109449136330943994?color=8fff00&domain=https%3A%2F%2Finfosec.exchange&label=%40lukeswitzer&labelColor=black&logo=mastodon&logoColor=8fff00&style=for-the-badge)](https://infosec.exchange/@lukeswitzer)[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FLukeSwitzer_&&label=%40LukeSwitzer&labelColor=black&logo=X&logoColor=8fff00&style=for-the-badge)](https://x.com/lukeswitzer_)
+
  [![Matrix](https://img.shields.io/badge/@lukeswitz:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=8fff00&labelColor=black&color=black)](https://matrix.to/#/@lukeswitz:matrix.org) [![iTunes App Store](https://img.shields.io/itunes/v/1006503796?color=8fff00&label=GeoTrend&logo=apple&logoColor=8fff00&style=for-the-badge&labelColor=black&domain=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fgeotrend%2Fid1006503796)](https://apps.apple.com/us/app/geotrend/id1006503796)
 
 <!--
