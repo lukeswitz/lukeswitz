@@ -4,7 +4,7 @@
 </a>
 
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=lukeswitz&show_icons=true&theme=radical&hide=contribs,issues&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=lukeswitz&show_icons=true&theme=radical&count_private=true&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
 
 [![My GitHub Code](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeswitz&count_private=true&theme=ocean_dark&showicons=false&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&exclude_repo=wordguess,nerdle,wordgame&layout=compact&bg_color=00000000)]()
