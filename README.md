@@ -1,5 +1,5 @@
 [![Matrix](https://img.shields.io/badge/@lukeswitz:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=8fff00&labelColor=black&color=black)](https://matrix.to/#/@lukeswitz:matrix.org)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3311963?style=for-the-badge&logo=stackoverflow&logoColor=8fff00&labelColor=black&color=8fff00)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3311963?style=for-the-badge&logo=stackoverflow&logoColor=8fff00&labelColor=black&color=8fff00&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F3311963%2Flukeswitz)
 <a href="https://x.com/LukeSwitzer_"><img src="https://img.shields.io/twitter/follow/LukeSwitzer_?style=for-the-badge&logo=x&logoColor=8fff00&label=Twitter&color=8fff00&labelColor=black&link=https%3A%2F%2Fx.com%2FLukeSwitzer_"></a>
 <a href="https://infosec.exchange/@lukeswitzer" title="Federated"><img src="https://img.shields.io/mastodon/follow/109449136330943994?domain=https%3A%2F%2Finfosec.exchange&label=Federated&style=for-the-badge&logo=mastodon&logoColor=8fff00&labelColor=black&color=8fff00">
 </a>
