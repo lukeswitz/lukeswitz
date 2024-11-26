@@ -20,9 +20,9 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeswitz&count_private=true&theme=merko&showicons=false&hide_title=false&hide_rank=true&include_all_commits=true&hide_border=true&exclude_repo=wordguess,nerdle,wordgame&layout=compact&bg_color=00000000" alt="Top Languages">
   </a>
-  <div>
-    <img align="left" height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=lukeswitz&theme=merko" alt="Streak Stats">
-    <img align="left" height="97" src="https://github-profile-trophy.vercel.app/?username=lukeswitz&theme=algolia&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="Trophies">
+  <div align="center>
+    <img align="center" height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=lukeswitz&theme=merko" alt="Streak Stats">
+    <img align="center" height="97" src="https://github-profile-trophy.vercel.app/?username=lukeswitz&theme=algolia&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="Trophies">
   </div>
 </div>
 
