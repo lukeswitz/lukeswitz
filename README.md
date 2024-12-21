@@ -14,6 +14,8 @@
   <a href="https://infosec.exchange/@lukeswitzer" title="Mastodon">
     <img src="https://img.shields.io/mastodon/follow/109449136330943994?domain=https%3A%2F%2Finfosec.exchange&label=Mastodon&style=for-the-badge&logo=mastodon&logoColor=8fff00&labelColor=black&color=8fff00" alt="Mastodon">
   </a>
+</div>
+<div align="center">
   <a href="#">
     <img height="200" src="https://my-stats-43gk.vercel.app/api?username=lukeswitz&show_icons=true&theme=merko&count_private=true&rank_icon=github&include_all_commits=true&card_width=150" alt="Stats">
   </a>
