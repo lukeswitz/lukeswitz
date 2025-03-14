@@ -1,9 +1,10 @@
 <div align="center">
-☕
-  
+
+Support My Open Source Projects
+
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Caffeinate%20Me-ff5f5f?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/lukeswitz)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Caffeinate%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lukeswitz)
-
+---
   <a href="https://matrix.to/#/@lukeswitz:matrix.org">
     <img src="https://img.shields.io/badge/@lukeswitz:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=8fff00&labelColor=black&color=black" alt="Matrix">
   </a>
