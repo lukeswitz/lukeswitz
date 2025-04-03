@@ -2,14 +2,6 @@
   <a href="https://matrix.to/#/@lukeswitz:matrix.org"><img src="https://img.shields.io/badge/@lukeswitz:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=8fff00&labelColor=black&color=black" alt="Matrix"></a><a href="https://stackoverflow.com/users/3311963/lukeswitz"><img src="https://img.shields.io/stackexchange/stackoverflow/r/3311963?style=for-the-badge&logo=stackoverflow&logoColor=8fff00&labelColor=black&color=8fff00" alt="Stack Overflow"></a><a href="https://x.com/LukeSwitzer_"><img src="https://img.shields.io/twitter/follow/LukeSwitzer_?style=for-the-badge&logo=x&logoColor=8fff00&label=Twitter&color=000000&labelColor=black" alt="Twitter"></a><a href="https://bsky.app/profile/lukeswitzer.bsky.social"><img src="https://img.shields.io/twitter/follow/LukeSwitzer_?style=for-the-badge&logo=bluesky&logoColor=8fff00&label=BlueSky&color=000000&labelColor=black" alt="BlueSky"></a><a href="https://infosec.exchange/@lukeswitzer" title="Mastodon"><img src="https://img.shields.io/mastodon/follow/109449136330943994?domain=https%3A%2F%2Finfosec.exchange&label=Mastodon&style=for-the-badge&logo=mastodon&logoColor=8fff00&labelColor=black&color=8fff00" alt="Mastodon"></a>
 </div>
 
-
-
-<div align="center">
-  
-  `Hi, I'm Luke. Currently working on: secure, privacy-focused solutions | Open for collaboration`
-
-</div>
-
 <div align="center">
   <h4>💻 Open source maintainer burnout is real. Coffee is expensive. ☕</h4>
   
