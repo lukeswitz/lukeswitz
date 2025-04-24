@@ -11,7 +11,7 @@
   </a>
 
 
-`💻 Open source maintainer burnout is real. I make no money from free and privacy focused dev work. Licensing is expensive. Keep it alive with coffee, I won't last much longer ☕`
+`💻 Open source maintainer burnout is real. I make no money from free and privacy focused dev work. Licensing is expensive. Keep it alive with coffee, ☕`
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lukeswitz)
 
