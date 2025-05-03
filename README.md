@@ -1,13 +1,10 @@
 
 
-##     `whoami`
-<div align="left">
+##     `whoami` [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lukeswitz)
   
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lukeswitz)
-</div>
+
 <div align="center">
 
-  ---
   
   <a href="https://matrix.to/#/@lukeswitz:matrix.org"><img src="https://img.shields.io/badge/@lukeswitz:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=8fff00&labelColor=black&color=black" alt="Matrix"></a><a href="https://stackoverflow.com/users/3311963/lukeswitz"><img src="https://img.shields.io/stackexchange/stackoverflow/r/3311963?style=for-the-badge&logo=stackoverflow&logoColor=8fff00&labelColor=black&color=8fff00" alt="Stack Overflow"></a><a href="https://x.com/LukeSwitzer_"><img src="https://img.shields.io/twitter/follow/LukeSwitzer_?style=for-the-badge&logo=x&logoColor=8fff00&label=Twitter&color=000000&labelColor=black" alt="Twitter"></a><a href="https://bsky.app/profile/lukeswitzer.bsky.social"><img src="https://img.shields.io/twitter/follow/LukeSwitzer_?style=for-the-badge&logo=bluesky&logoColor=8fff00&label=BlueSky&color=000000&labelColor=black" alt="BlueSky"></a>
 </div>
