@@ -3,17 +3,22 @@
   <a href="https://stackoverflow.com/users/3311963/lukeswitz"><img src="https://img.shields.io/stackexchange/stackoverflow/r/3311963?style=for-the-badge&logo=stackoverflow&logoColor=8fff00&labelColor=black&color=8fff00" alt="Stack Overflow"></a>
   
   <pre>Breaking things professionally since 2009
-  Security person | Pro paranoid </pre>
+  Security person | Pro paranoid
+  Privacy Advocate</pre>
   
   <img height="180" src="https://my-stats-43gk.vercel.app/api?username=lukeswitz&hide_title=true&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github&include_all_commits=true&card_width=150&hide_border=true&layout=compact&bg_color=00000000" alt="Stats">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeswitz&count_private=true&theme=merko&showicons=false&hide_title=false&hide_rank=true&include_all_commits=true&hide_border=true&exclude_repo=wordguess,nerdle,wordgame&layout=compact&bg_color=00000000" alt="Top Languages">
  
 </div>
  
 
 <!--
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeswitz&count_private=true&theme=tokyonight&showicons=false&hide_title=false&hide_rank=true&include_all_commits=true&hide_border=true&exclude_repo=wordguess,nerdle,wordgame&layout=compact" alt="Top Languages">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeswitz&count_private=true&theme=tokyonight&showicons=false&hide_title=false&hide_rank=true&include_all_commits=true&hide_border=true&exclude_repo=wordguess,nerdle,wordgame&layout=compact" alt="Top Languages">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeswitz&count_private=true&theme=tokyonight&showicons=false&hide_title=false&hide_rank=true&include_all_commits=true&hide_border=true&exclude_repo=wordguess,nerdle,wordgame&layout=compact&bg_color=00000000" alt="Top Languages">
+
+
+ <
   
 <
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lukeswitz&count_private=true&showicons=false&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&bg_color=0001111&text_bold=false)]()
